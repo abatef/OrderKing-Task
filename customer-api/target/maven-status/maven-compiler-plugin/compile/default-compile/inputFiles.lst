@@ -1,0 +1,12 @@
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/repository/UserRepository.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/exception/GlobalExceptionHandler.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/service/AuthService.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/controller/CustomerController.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/model/AuthRequest.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/model/User.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/service/CustomerService.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/repository/CustomerRepository.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/CustomerApiApplication.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/model/Customer.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/config/SecurityConfig.java
+/home/abatef/workspace/task/customer-api/src/main/java/com/customer/api/controller/AuthController.java
