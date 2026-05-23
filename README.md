@@ -1,7 +1,7 @@
 # Customer Management Application
 > [!NOTE]  
-> I Wrote this README file using AI because I was in a hurry and I wanted to create a good README file fast enought;
-> I Just wrote the main idea and let the AI do the rest.
+> I wrote this README file using AI because I was in a hurry and I wanted to create a good README file fast enought;
+> I just wrote the main idea and let the AI do the rest.
 
 A full-stack customer management system with a **Spring Boot REST API backend** and a **Swing desktop client**. The desktop app communicates exclusively via HTTP — no direct database access.
 
